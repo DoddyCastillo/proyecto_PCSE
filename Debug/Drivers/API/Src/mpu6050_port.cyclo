@@ -1,0 +1,4 @@
+../Drivers/API/Src/mpu6050_port.c:16:6:MPU6050_PortI2C_Init	2
+../Drivers/API/Src/mpu6050_port.c:36:6:MPU6050_PortI2C_IsReady	2
+../Drivers/API/Src/mpu6050_port.c:42:6:MPU6050_PortI2C_WriteRegister	2
+../Drivers/API/Src/mpu6050_port.c:51:6:MPU6050_PortI2C_ReadRegister	2

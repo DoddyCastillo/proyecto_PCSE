@@ -1,0 +1,6 @@
+../Drivers/API/Src/bmp280_port.c:14:6:BMP280_SPI_Init	8	static
+../Drivers/API/Src/bmp280_port.c:34:6:BMP280_SPI_CS_Init	32	static
+../Drivers/API/Src/bmp280_port.c:45:6:BMP280_PortSPI_WriteRegister	16	static
+../Drivers/API/Src/bmp280_port.c:54:6:BMP280_PortSPI_ReadRegister	16	static
+../Drivers/API/Src/bmp280_port.c:63:6:BMP280_SPI_CS_Select	8	static
+../Drivers/API/Src/bmp280_port.c:68:6:BMP280_SPI_CS_Deselect	8	static

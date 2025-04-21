@@ -1,0 +1,5 @@
+../Drivers/API/Src/API_uart.c:21:8:uartInit	2
+../Drivers/API/Src/API_uart.c:50:6:uartSendString	3
+../Drivers/API/Src/API_uart.c:61:6:uartSendStringSize	3
+../Drivers/API/Src/API_uart.c:70:15:checkPointer	1
+../Drivers/API/Src/API_uart.c:75:15:checkSize	3

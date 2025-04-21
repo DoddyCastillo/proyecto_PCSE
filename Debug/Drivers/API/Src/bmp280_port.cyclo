@@ -1,0 +1,6 @@
+../Drivers/API/Src/bmp280_port.c:14:6:BMP280_SPI_Init	2
+../Drivers/API/Src/bmp280_port.c:34:6:BMP280_SPI_CS_Init	1
+../Drivers/API/Src/bmp280_port.c:45:6:BMP280_PortSPI_WriteRegister	2
+../Drivers/API/Src/bmp280_port.c:54:6:BMP280_PortSPI_ReadRegister	2
+../Drivers/API/Src/bmp280_port.c:63:6:BMP280_SPI_CS_Select	1
+../Drivers/API/Src/bmp280_port.c:68:6:BMP280_SPI_CS_Deselect	1

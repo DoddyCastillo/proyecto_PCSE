@@ -1,0 +1,16 @@
+../Drivers/API/Src/mpu6050_driver.c:27:16:MPU6050_RawMeasurementRead	24	static
+../Drivers/API/Src/mpu6050_driver.c:36:9:MPU6050_ReadTemperatureInt	16	static
+../Drivers/API/Src/mpu6050_driver.c:42:19:MPU6050_ReadGyroscopeInt	24	static
+../Drivers/API/Src/mpu6050_driver.c:52:19:MPU6050_ReadAccelerometerInt	24	static
+../Drivers/API/Src/mpu6050_driver.c:62:17:MPU6050_ReadAccelerometer	48	static
+../Drivers/API/Src/mpu6050_driver.c:71:14:MPU6050_ReadTemperature	16	static
+../Drivers/API/Src/mpu6050_driver.c:78:17:MPU6050_ReadGyroscope	48	static
+../Drivers/API/Src/mpu6050_driver.c:91:6:MPU6050_Init	8	static
+../Drivers/API/Src/mpu6050_driver.c:102:6:MPU6050_Check	8	static
+../Drivers/API/Src/mpu6050_driver.c:109:9:MPU6050_GetTemperatureInt	8	static
+../Drivers/API/Src/mpu6050_driver.c:114:13:MPU6050_GetGyroscopeInt	16	static
+../Drivers/API/Src/mpu6050_driver.c:119:13:MPU6050_GetAccelerometerInt	16	static
+../Drivers/API/Src/mpu6050_driver.c:125:7:MPU6050_GetTemperature	8	static
+../Drivers/API/Src/mpu6050_driver.c:131:10:MPU6050_GetGyroscope	40	static
+../Drivers/API/Src/mpu6050_driver.c:135:10:MPU6050_GetAccelerometer	40	static
+../Drivers/API/Src/mpu6050_driver.c:141:8:MPU6050_IsAvailable	16	static

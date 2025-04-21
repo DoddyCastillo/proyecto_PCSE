@@ -1,0 +1,9 @@
+../Drivers/API/Src/bmp280_driver.c:22:13:BMP280_ReadCalibrationData	40	static
+../Drivers/API/Src/bmp280_driver.c:46:16:BMP280_ReadRegister	24	static
+../Drivers/API/Src/bmp280_driver.c:55:13:BMP280_WriteRegister	24	static
+../Drivers/API/Src/bmp280_driver.c:62:9:BMP280_Read8	16	static
+../Drivers/API/Src/bmp280_driver.c:66:6:BMP280_Write8	16	static
+../Drivers/API/Src/bmp280_driver.c:70:6:BMP280_Init	24	static
+../Drivers/API/Src/bmp280_driver.c:96:7:BMP280_ReadTemperature	32	static
+../Drivers/API/Src/bmp280_driver.c:115:7:BMP280_ReadPressure	336	static
+../Drivers/API/Src/bmp280_driver.c:143:7:BMP280_ReadAltitude	24	static
