@@ -27,7 +27,7 @@ Este proyecto tiene como objetivo el desarrollo de un sistema embebido capaz de 
 - Configuración del LCD para mostrar datos dinámicos.
 - Comunicación serial UART con PC.
 - Aplicación de conceptos de temporización y adquisición periódica de datos.
-- Uso de HAL o LL para configuración eficiente del microcontrolador.
+- Uso de HAL para configuración eficiente del microcontrolador.
 
 ## Posibles Extensiones
 
