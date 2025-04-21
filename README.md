@@ -17,7 +17,7 @@ Este proyecto tiene como objetivo el desarrollo de un sistema embebido capaz de 
 | STM32F446RE    | Microcontrolador ARM Cortex-M4 con FPU, ideal para tareas de control y DSP.|
 | MPU-6050       | Sensor IMU (Inertial Measurement Unit) de 6 ejes: acelerómetro y giroscopio.|
 | BMP280         | Sensor barométrico digital que mide presión y temperatura.                 |
-| LCD 16x2       | Pantalla de cristal líquido, interfaz paralela o I2C para visualizar datos. |
+| LCD 20x4       | Pantalla de cristal líquido, interfaz paralela o I2C para visualizar datos. |
 | UART/USB       | Comunicación serial con PC para mostrar datos del BMP280 en tiempo real.   |
 | Nucleo-F446RE  | Placa de desarrollo con depurador ST-Link integrado y headers compatibles. |
 
