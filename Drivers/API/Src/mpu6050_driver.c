@@ -173,7 +173,7 @@ static Vector3i16 MPU6050_ReadAccelerometerInt()
 {
     for (int i = 0; i < 3; i++) {
         int16_t raw_accel = MPU6050_RawMeasurementRead(ACCEL_XOUT_H + 2*i);
-        ((int16_t*)&acceli16)[i] = (raw_accel * 100) / FS_LSB_GYRO_250;
+        ((int16_t*)&acceli16)[i] = (raw_accel * 100) / FS_LSB_ACC_250;
     }
     return acceli16;
 }
@@ -211,7 +211,7 @@ static Vector3f MPU6050_ReadAccelerometer()
 {
     for (int i = 0; i < 3; i++) {
         int16_t raw_accel = MPU6050_RawMeasurementRead(ACCEL_XOUT_H + 2*i);
-        ((float*)&accel)[i] = raw_accel / FS_LSB_GYRO_250;
+        ((float*)&accel)[i] = raw_accel / FS_LSB_ACC_250;
     }
     return accel;
 }
